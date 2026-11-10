@@ -20,6 +20,8 @@ Pause on the evidence at each decision: layout checks; owned image and motion ou
 - [Saved generated image](../media/generated-output.png)
 - [Saved generated motion output](../media/generated-output.mp4)
 
+The walkthrough covers the fixture copy/layout/export workflow. The saved generated-output PNG and MP4 are separate real provider outputs from the later bounded media check.
+
 A recording shows a saved run, not a new provider request. Browser viewport checks do not imply physical-device testing.
 
 ## Interactive access
