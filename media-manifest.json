@@ -1,0 +1,26 @@
+{
+  "project": "Ad-Kit Workbench",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 228019,
+      "sha256": "fba52532a5b84eb137d1e5dd01ffa06eb180db988e5d60d1d196ce6b0f5c5ecb"
+    },
+    {
+      "path": "media/walkthrough.webm",
+      "bytes": 2928773,
+      "sha256": "3c51bbe6ea9df81e11e5d2737289c499aec047683be1108a18d1f3721b66a646"
+    },
+    {
+      "path": "media/generated-output.png",
+      "bytes": 1471333,
+      "sha256": "49b49e1d46eca01ba018f49934596ec28af2ec3e1d0410930476ee3bd0c504b4"
+    },
+    {
+      "path": "media/generated-output.mp4",
+      "bytes": 628601,
+      "sha256": "a22b0766b24dfaafd456dca2459fe3d4f873b37e162604eced58d4613534551c"
+    }
+  ]
+}
